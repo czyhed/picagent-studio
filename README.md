@@ -2,6 +2,8 @@
 
 PicAgent 桌面端套图工作台独立项目。
 
+文档索引：[docs/README.md](docs/README.md)。
+
 当前已建立 Ticket 01 的正式前端应用骨架，后续能力按 `docs/PRD-套图工作台-V1.md` 逐步接入。
 
 ## 本地运行
@@ -40,4 +42,4 @@ npm run build
 
 ## 原型
 
-原型入口位于 `prototype/index.html`。后续套图工作台开发以 `prototype/` 中的套图创建首页和套图创作工作台为交互与页面结构基准。
+原型已归档到 `docs/archive/prototype/`，入口为 `docs/archive/prototype/index.html`。后续套图工作台开发以其中的套图创建首页和套图创作工作台为交互与页面结构基准。
