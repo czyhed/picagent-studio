@@ -9,6 +9,7 @@
     "import-prompts": "tsx server/import-prompts.ts",
     "seed:validation-rag": "tsx server/seed-validation-rag.ts",
     "test:ticket05": "tsx --test tests/ticket05.contract.test.ts tests/ticket05.input.test.ts",
+    "test:cross-device": "tsx --test tests/cross-device.records.test.ts",
     "test:ticket02": "tsx --test tests/ticket02.contract.test.ts tests/ticket02.encoding.test.ts",
     "build": "tsc -b && vite build",
     "typecheck": "tsc -b --pretty false"
